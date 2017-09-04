@@ -4,7 +4,7 @@
 	<li><sup><a class="KENC7Z" id="OVLBR8" href="#OVLBR8">OVLBR8</a>: </sup><strong>JotHere.com</strong><ol>
 		<li><sup><a class="KENC7Z" id="OVLBS3" href="#OVLBS3">OVLBS3</a>: </sup>(JotHere.com)&nbsp;<strong>TOU including license</strong> :<a href="#OVLBS3">OVLBS3</a>
 		<ol>
-			<li><sup><a class="KENC7Z" id="OVLBUO" href="#OVLBUO">OVLBUO</a>: </sup><strong>Unless the content specifies otherwise, all content under or belonging to JotHere.com organization, especially within </strong> <a href="http://JotHere.com"><strong>http://JotHere.com</strong></a><strong>, is covered by ‘(CoComp) license for information :</strong><a href="/OVHTNU#OVHU7U"><strong>OVHU7U</strong></a><strong>’ then by ‘</strong><a href="http://1.jothere.com/4250#N0IAGT"><strong>JotHere.com’s default TOU</strong></a>’<strong>.</strong> </li>
+			<li><sup><a class="KENC7Z" id="OVLBUO" href="#OVLBUO">OVLBUO</a>: </sup><strong>Unless the content specifies otherwise, all content under or belonging to JotHere.com organization, especially within </strong> <a href="http://JotHere.com"><strong>http://JotHere.com</strong></a><strong>, is covered by ‘(CoComp) license for information :</strong><a href="/OVHTNU#OVHU7U"><strong>OVHU7U</strong></a><strong>’ then by ‘</strong><a href="http://1.jothere.com/4250#N0IAGT"><strong>JotHere.com’s default TOU</strong></a>’<strong>.</strong> :<a href="#OVLBUO">OVLBUO</a></li>
 		</ol>
 		</li>
 		<li><sup><a class="KENC7Z" id="OVBV48" href="#OVBV48">OVBV48</a>: </sup>‘<a href="https://GitHub.com/JotHere"><strong>https://GitHub.com/JotHere</strong></a>’ --notes 2+
@@ -13,7 +13,7 @@
 			<li><sup><a class="KENC7Z" id="OVLCCM" href="#OVLCCM">OVLCCM</a>: </sup>is a ‘(GitHub.com organization) instance :<a href="#OVLCAL">OVLCAL</a>’</li>
 			<li><sup><a class="KENC7Z" id="OVBUSJ" href="#OVBUSJ">OVBUSJ</a>: </sup>folder ‘url_archive_MAXUKI\com_\github_\JotHere\’ :<a href="#OVBUSJ">OVBUSJ</a>
 			<ol>
-				<li><sup><a class="KENC7Z" id="OVBUT7" href="#OVBUT7">OVBUT7</a>: </sup>likely created in ‘C:\Users\L4MIKE\MVDest@JotHere.com\’<sup> </sup></li>
+				<li><sup><a class="KENC7Z" id="OVBUT7" href="#OVBUT7">OVBUT7</a>: </sup>likely created in ‘C:\Users\L4MIKE\MV..st@JotHere.com\’<sup> </sup></li>
 				<li><sup><a class="KENC7Z" id="OVBVA0" href="#OVBVA0">OVBVA0</a>: </sup>folder ‘&amp;_.Type=Repo&amp;_.Creator=git_clone&amp;_.FId=<a href="#OVBVAK">OVBVAK</a>\’
 				<ol>
 					<li><sup><a class="KENC7Z" id="OVBUH9" href="#OVBUH9">OVBUH9</a>: </sup>for Repo copy via ‘git clone’</li>
@@ -221,7 +221,9 @@
 					<li><sup><a class="KENC7Z" id="OVFXO1" href="#OVFXO1">OVFXO1</a>: </sup>commit explicit #1 via <a href="https://github.com/JotHere/OV82JH/new/master">https://github.com/JotHere/OV82JH/new/master</a> creating OVFX0S/index.md :<a href="#OVFXO1">OVFXO1</a></li>
 					<li><sup><a class="KENC7Z" id="OVFYXB" href="#OVFYXB">OVFYXB</a>: </sup>commit explicit #2 via <a href="https://github.com/JotHere/OV82JH/new/master">https://github.com/JotHere/OV82JH/new/master</a> editing OVFX0S/index.md&nbsp; :<a href="#OVFYXB">OVFYXB</a></li>
 					<li>:</li>
-					<li><sup><a class="KENC7Z" id="OVLLG7" href="#OVLLG7">OVLLG7</a>: </sup>commit #1 of ‘&amp;_.User.Name=ObDest&amp;_.FId=OVBUIS\OV82JH\’&lt;br/&gt;where just before, on all 8 files, doing {MS ExWeb spellcheck except on <a href="/OVLGXF/">/OVLGXF/</a>, then <a href="1.JotHere.com/401#OTZWIN">1.JotHere.com/401#OTZWIN</a> doing ‘3722 occurrences in 16 pages’, then omitting new <a href="/OVHTNU/">/OVHTNU/</a> to 1st verify ok for public}</li>
+					<li><sup><a class="KENC7Z" id="OVLLG7" href="#OVLLG7">OVLLG7</a>: </sup>commit #1 of ‘&amp;_.User.Name=ObDest&amp;_.FId=OVBUIS\OV82JH\’&lt;br/&gt;where just before, on all 8 files, doing {MS ExWeb spellcheck except on <a href="/OVLGXF/">/OVLGXF/</a>, then <a href="1.JotHere.com/401#OTZWIN">1.JotHere.com/401#OTZWIN</a> doing ‘3722 occurrences in 16 pages’, then omitting new <a href="/OVHTNU/">/OVHTNU/</a> to 1st verify ok for public} getting ‘<a href="https://github.com/JotHere/OV82JH/commit/22ff9c6c343b38b47a8c339741d834a9d160bc12">‘OVLLG7: commit</a>&nbsp;<a href="https://github.com/JotHere/OV82JH/issues/1">#1</a>&nbsp;<a href="https://github.com/JotHere/OV82JH/commit/22ff9c6c343b38b47a8c339741d834a9d160bc12">of ‘&amp;_.User.Name=ObDest&amp;_.FId=OVBUIS\OV82JH\’’</a>’</li>
+					<li>:</li>
+					<li><sup><a class="KENC7Z" id="OVQCNO" href="#OVQCNO">OVQCNO</a>: </sup>commit: additions <a href="/OVLDJ1/%20#OVQCL2">OVQCL2</a>+<a href="#OVQC9S">OVQC9S</a></li>
 				</ol>
 				</li>
 				<li></li>
@@ -229,10 +231,25 @@
 			</li>
 			<li><sup><a class="KENC7Z" id="OVCVMG" href="#OVCVMG">OVCVMG</a>: </sup>clone
 			<ol>
-				<li><sup><a class="KENC7Z" id="OVC0K2" href="#OVC0K2">OVC0K2</a>: </sup>clone ‘OV82JH’ <a href="#OVC0K2">OVC0K2</a>
+				<li><sup><a class="KENC7Z" id="OVC0K2" href="#OVC0K2">OVC0K2</a>: </sup>clone ‘OV82JH/’ :<a href="#OVC0K2">OVC0K2</a>
 				<ol>
-					<li><sup><a class="KENC7Z" id="OVCVO4" href="#OVCVO4">OVCVO4</a>: </sup>via ‘login as ‘ObDest’  :<a href="#OVC0CA">OVC0CA</a>’</li>
-					<li><sup><a class="KENC7Z" id="OVC0PS" href="#OVC0PS">OVC0PS</a>: </sup>destination dir from ‘C:\Users\L4MIKE\Documents\GitHub’ to ‘&amp;_.User.Name=ObDest&amp;_.FId=OVBUIS’</li>
+					<li><sup><a class="KENC7Z" id="OVCVO4" href="#OVCVO4">OVCVO4</a>: </sup>‘login as ‘ObDest’  :<a href="#OVC0CA">OVC0CA</a>’</li>
+					<li><sup><a class="KENC7Z" id="OVQB3Q" href="#OVQB3Q">OVQB3Q</a>: </sup>via GitHub Desktop under L4Mike :<a href="#OVQB3Q">OVQB3Q</a>
+					<ol>
+						<li><sup><a class="KENC7Z" id="OVQB86" href="#OVQB86">OVQB86</a>: </sup>created ‘‎2017.‎08.‎27.‎Sun, ‏‎00:00:40’</li>
+						<li><sup><a class="KENC7Z" id="OVC0PS" href="#OVC0PS">OVC0PS</a>: </sup>destination dir from ‘C:\Users\L4MIKE\Documents\GitHub’ to ‘&amp;_.User.Name=ObDest&amp;_.FId=OVBUIS’</li>
+						<li><sup><a class="KENC7Z" id="OVQ18P" href="#OVQ18P">OVQ18P</a>: </sup>due to <a href="#OVQAYW">OVQAYW</a>, now here press Sync: it works. So continue working here until that that is fixed. :<a href="#OVQ18P">OVQ18P</a></li>
+					</ol>
+					</li>
+					<li><sup><a class="KENC7Z" id="OVQASM" href="#OVQASM">OVQASM</a>: </sup>then as user oswmik(Manjaro), I trying to sync it to current {using command lines, as GitHub Desktop not offered for Linux}:<a href="#OVQASM">OVQASM</a>
+					<ol>
+						<li><sup><a class="KENC7Z" id="OVQAYW" href="#OVQAYW">OVQAYW</a>: </sup>but so far failing per task <a href="#OVQ5JU">OVQ5JU</a> :<a href="#OVQAYW">OVQAYW</a></li>
+					</ol>
+					</li>
+					<li><a href="http://1.JotHere.com/OVBFFW#OVB7A9">‘section’</a><ol>
+						<li><sup><a class="KENC7Z" id="OVQC9S" href="#OVQC9S">OVQC9S</a>: </sup>I add <a href="#OVQB3Q">OVQB3Q</a>+<a href="#OVQASM">OVQASM</a> :<a href="#OVQC9S">OVQC9S</a></li>
+					</ol>
+					</li>
 				</ol>
 				</li>
 			</ol>
