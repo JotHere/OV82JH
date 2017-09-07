@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"></head><body>
+﻿<!DOCTYPE html><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/></head><body>
 <p><a href="http://1.JotHere.com/OVBFFW#OVHNI5">‘JotHere.com notes on...’</a></p>
 <ol>
 	<li><sup><a class="KENC7Z" id="OVLBR8" href="#OVLBR8">OVLBR8</a>: </sup><strong>JotHere.com</strong><ol>
@@ -224,9 +224,9 @@
 					<li><sup><a class="KENC7Z" id="OVLLG7" href="#OVLLG7">OVLLG7</a>: </sup>commit #1 of ‘&amp;_.User.Name=ObDest&amp;_.FId=OVBUIS\OV82JH\’&lt;br/&gt;where just before, on all 8 files, doing {MS ExWeb spellcheck except on <a href="/OVLGXF/">/OVLGXF/</a>, then <a href="1.JotHere.com/401#OTZWIN">1.JotHere.com/401#OTZWIN</a> doing ‘3722 occurrences in 16 pages’, then omitting new <a href="/OVHTNU/">/OVHTNU/</a> to 1st verify ok for public} getting ‘<a href="https://github.com/JotHere/OV82JH/commit/22ff9c6c343b38b47a8c339741d834a9d160bc12">‘OVLLG7: commit</a>&nbsp;<a href="https://github.com/JotHere/OV82JH/issues/1">#1</a>&nbsp;<a href="https://github.com/JotHere/OV82JH/commit/22ff9c6c343b38b47a8c339741d834a9d160bc12">of ‘&amp;_.User.Name=ObDest&amp;_.FId=OVBUIS\OV82JH\’’</a>’</li>
 					<li>:</li>
 					<li><sup><a class="KENC7Z" id="OVQCNO" href="#OVQCNO">OVQCNO</a>: </sup>commit: additions <a href="/OVLDJ1/%20#OVQCL2">OVQCL2</a>+<a href="#OVQC9S">OVQC9S</a></li>
+					<li><sup><a class="KENC7Z" id="OVWMSF" href="#OVWMSF">OVWMSF</a>: </sup>commit: additions :<a href="#OVW592">OVW592</a>+<a href="#OVW2E3">OVW2E3</a>+:<a href="#OVW4H9">OVW4H9</a>+<a href="#OVWJJU">OVWJJU</a>+<a href="#OVRQTI">OVRQTI</a>+<a href="#OVTNCE">OVTNCE</a>+<a href="#OVWMEY">OVWMEY</a> :<a href="#OVWMSF">OVWMSF</a></li>
 				</ol>
 				</li>
-				<li></li>
 			</ol>
 			</li>
 			<li><sup><a class="KENC7Z" id="OVCVMG" href="#OVCVMG">OVCVMG</a>: </sup>clone
@@ -267,8 +267,6 @@
 			</ol>
 			</li>
 			<li><sup><a class="KENC7Z" id="OVLDSS" href="#OVLDSS">OVLDSS</a>: </sup>‘Issues&nbsp;<a href="https://github.com/JotHere/OV82JH/issues/">https://github.com/JotHere/OV82JH/issues/</a> :<a href="/OVLDJ1/#OV8MAR">OV8MAR</a>’ --see that</li>
-			<li>
-			</li>
 		</ol>
 		</li>
 	</ol>

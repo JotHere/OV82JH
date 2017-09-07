@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"></head><body>
-<p><a href="http://1.JotHere.com/OVBFFW#OVHNI5">‘JotHere.com notes on...’</a></p>
+<a href="http://1.JotHere.com/OVBFFW#OVHNI5">‘JotHere.com notes on...’</a>
 <ol>
 	<li><sup><a class="KENC7Z" id="OVD0TH" href="#OVD0TH">OVD0TH</a>: </sup>templating system <a href="#OVD0TH">OVD0TH</a><ol>
 		<li><sup><a class="KENC7Z" id="OVD10P" href="#OVD10P">OVD10P</a>: </sup>sub-template definition<ol>
@@ -56,32 +56,61 @@
 				</ol>
 				</li>
 				<li><sup><a class="KENC7Z" id="OVAYZ8" href="#OVAYZ8">OVAYZ8</a>: </sup><a href="http://1.JotHere.com/OVBFFW#OVAYZ8">‘relevant texting and other writing, earliest 1st:’</a></li>
-				<li><sup><a class="KENC7Z" id="OVB7A9" href="#OVB7A9">OVB7A9</a>: </sup><a href="http://1.JotHere.com/OVBFFW#OVB7A9">‘section’</a></li>
+				<li><sup><a class="KENC7Z" id="OVB7A9" href="#OVB7A9">OVB7A9</a>: </sup><a href="http://1.JotHere.com/OVBFFW#OVB7A9">‘section’</a><ol>
+					<li><sup><a class="KENC7Z" id="OVW54Z" href="#OVW54Z">OVW54Z</a>: </sup>to be the title of the last li</li>
+					<li><sup><a class="KENC7Z" id="OVW56C" href="#OVW56C">OVW56C</a>: </sup>each of its li
+					<ol>
+						<li><sup><a class="KENC7Z" id="OVW5BS" href="#OVW5BS">OVW5BS</a>: </sup>are listed in chronological order, starting from oldest</li>
+						<li><sup><a class="KENC7Z" id="OVW5BH" href="#OVW5BH">OVW5BH</a>: </sup>tells of changes &amp; info about the section itself<ol>
+							<li><sup><a class="KENC7Z" id="OVW5IG" href="#OVW5IG">OVW5IG</a>: </sup>except changes especially additions to each <a href="http://1.JotHere.com/OVBFFW#OVB7A9">‘section’</a> are not considered changes to the parent section as instead {that's handled by the commit comment per <a href="#OVW5CD">OVW5CD</a>}<ol>
+								<li><sup><a class="KENC7Z" id="OVW5UE" href="#OVW5UE">OVW5UE</a>: </sup>except where a parent, or grandparent etc., section exists and is also has, during this edit, noted changes to its children, in which case its beyond-child change(s) will be noted within it instead of directly in the commit comment :<a href="#OVW5UE">OVW5UE</a><ol>
+									<li><sup><a class="KENC7Z" id="OVW5XZ" href="#OVW5XZ">OVW5XZ</a>: </sup>as real &amp; recent example <a href="#OVW5OR">OVW5OR</a> </li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+						<li><sup><a class="KENC7Z" id="OVW5CD" href="#OVW5CD">OVW5CD</a>: </sup>is itself ideally referenced by 1 commit comment {directly or {indirectly per <a href="#OVW5UE">OVW5UE</a>}}<ol>
+							<li><sup><a class="KENC7Z" id="OVW63X" href="#OVW63X">OVW63X</a>: </sup>so then achieving the goal: the comment can lead to every of the commit's changes&nbsp; :<a href="#OVW5CD">OVW5CD</a><ol>
+								<li><sup><a class="KENC7Z" id="OVW65H" href="#OVW65H">OVW65H</a>: </sup>without repeating each but better pointing to each directly or indirectly<ol>
+									<li><sup><a class="KENC7Z" id="OVW66J" href="#OVW66J">OVW66J</a>: </sup>indeed pointing with as few references as readily practical via optimization <a href="#OVW5UE">OVW5UE</a></li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+						</ol>
+						</li>
+						<li><sup><a class="KENC7Z" id="OVW5ET" href="#OVW5ET">OVW5ET</a>: </sup>real recent example: <a href="#OVW592">OVW592</a></li>
+					</ol>
+&nbsp;</li>
+				</ol>
+				</li>
 				<li><sup><a class="KENC7Z" id="OVD1WL" href="#OVD1WL">OVD1WL</a>: </sup><a href="#OVD1WL">‘writing-style: OVDest’</a>
 				<ol>
 					<li><sup><a class="KENC7Z" id="OVD1XH" href="#OVD1XH">OVD1XH</a>: </sup>writing-style OVDest :<a href="#OVD1XH">OVD1XH</a><ol>
 						<li><sup><a class="KENC7Z" id="OVD20Z" href="#OVD20Z">OVD20Z</a>: </sup>name is creation KCGUID merged-right with ‘Destiny’</li>
 						<li><sup><a class="KENC7Z" id="OVD1ZN" href="#OVD1ZN">OVD1ZN</a>: </sup>is that used by ‘@ObDest’&nbsp; mainly as shown within his articles of <a href="http://1.JotHere.com/author/DestinyArchitect">http://1.JotHere.com/author/DestinyArchitect</a>&nbsp; so including<ol>
-				<li><sup><a class="KENC7Z" id="OVAZMB" href="#OVAZMB">OVAZMB</a>: </sup>100% outlines where every section instance
-				<ol>
-					<li><sup><a class="KENC7Z" id="OVAZP3" href="#OVAZP3">OVAZP3</a>: </sup>wrapped in HTML tag ol else ul except for the top-level section which uses no wrapping tag<ol>
-						<li><sup><a class="KENC7Z" id="OVB6SO" href="#OVB6SO">OVB6SO</a>: </sup>so no HTML tag p.</li>
-					</ol>
-					</li>
-					<li><sup><a class="KENC7Z" id="OVAZSJ" href="#OVAZSJ">OVAZSJ</a>: </sup><a href="#OVAZSJ">OVAZSJ</a>: beginning with its own KCGUID in the default format, for example this section beginning with the HTML ‘&lt;sup&gt;&lt;a id="OVAZSI" class="aself_KEP2FG"&gt;OVAZSJ&lt;/a&gt;:&lt;/sup&gt; ’<ol>
-						<li><sup><a class="KENC7Z" id="OVB0JU" href="#OVB0JU">OVB0JU</a>: </sup>... iff &amp; once the section has non-template content</li>
-					</ol>
-					</li>
-				</ol>
-				</li>
-				<li><sup><a class="KENC7Z" id="OVAZVJ" href="#OVAZVJ">OVAZVJ</a>: </sup>a reference to section :<a href="#OVAZVJ">OVAZVJ</a> any one, is written per this example ‘a reference to section :<a href="#OVAZVJ">OVAZVJ</a>’ referring to this section.</li>
-				<li><sup><a class="KENC7Z" id="OVAZY8" href="#OVAZY8">OVAZY8</a>: </sup>{every article/entry's field besides the body field, such as the field ‘title’, ‘category’, ‘Assignees’, ‘Labels’, ‘Projects’, ‘Milestones’, etc.} have its settings ideally including is full history 100% clearly documented within the body field, especially so that the whole ‘body’ field contains all essential information about the article/entry especially should the other field info be lost and/or the article/entry need to be moved to another location including very different CMS.</li>
-				<li><sup><a class="KENC7Z" id="OVB08O" href="#OVB08O">OVB08O</a>: </sup>The ‘body’ field is better organized by each section using 0 or more sub-templates, such as real example ‘<a href="https://github.com/JotHere/OV82JH/issues/1#OVAYYS">‘demo/test repo’</a> <a href="https://github.com/JotHere/597Demo">https://github.com/JotHere/597Demo </a>&nbsp;<a href="https://github.com/JotHere/OV82JH/issues/1#OVAZBK">‘--created by’</a> @JamesHofstra’, so where
-				<ol>
-					<li><sup><a class="KENC7Z" id="OVB0DP" href="#OVB0DP">OVB0DP</a>: </sup>each span of sub-template text is in quotes ‘’ and is a link that sub-template's definition ideally in say the master template.</li>
-				</ol>
-				</li>
-			</ol>
+							<li><sup><a class="KENC7Z" id="OVAZMB" href="#OVAZMB">OVAZMB</a>: </sup>100% outlines where every section instance
+							<ol>
+								<li><sup><a class="KENC7Z" id="OVAZP3" href="#OVAZP3">OVAZP3</a>: </sup>wrapped in HTML tag ol else ul except for the top-level section which uses no wrapping tag<ol>
+									<li><sup><a class="KENC7Z" id="OVB6SO" href="#OVB6SO">OVB6SO</a>: </sup>so no HTML tag p.</li>
+								</ol>
+								</li>
+								<li><sup><a class="KENC7Z" id="OVAZSJ" href="#OVAZSJ">OVAZSJ</a>: </sup><a href="#OVAZSJ">OVAZSJ</a>: beginning with its own KCGUID in the default format, for example this section beginning with the HTML ‘&lt;sup&gt;&lt;a id="OVAZSI" class="aself_KEP2FG"&gt;OVAZSJ&lt;/a&gt;:&lt;/sup&gt; ’<ol>
+									<li><sup><a class="KENC7Z" id="OVB0JU" href="#OVB0JU">OVB0JU</a>: </sup>... iff &amp; once the section has non-template content</li>
+								</ol>
+								</li>
+							</ol>
+							</li>
+							<li><sup><a class="KENC7Z" id="OVAZVJ" href="#OVAZVJ">OVAZVJ</a>: </sup>a reference to section :<a href="#OVAZVJ">OVAZVJ</a> any one, is written per this example ‘a reference to section :<a href="#OVAZVJ">OVAZVJ</a>’ referring to this section.</li>
+							<li><sup><a class="KENC7Z" id="OVAZY8" href="#OVAZY8">OVAZY8</a>: </sup>{every article/entry's field besides the body field, such as the field ‘title’, ‘category’, ‘Assignees’, ‘Labels’, ‘Projects’, ‘Milestones’, etc.} have its settings ideally including is full history 100% clearly documented within the body field, especially so that the whole ‘body’ field contains all essential information about the article/entry especially should the other field info be lost and/or the article/entry need to be moved to another location including very different CMS.</li>
+							<li><sup><a class="KENC7Z" id="OVB08O" href="#OVB08O">OVB08O</a>: </sup>The ‘body’ field is better organized by each section using 0 or more sub-templates, such as real example ‘<a href="https://github.com/JotHere/OV82JH/issues/1#OVAYYS">‘demo/test repo’</a> <a href="https://github.com/JotHere/597Demo">https://github.com/JotHere/597Demo </a>&nbsp;<a href="https://github.com/JotHere/OV82JH/issues/1#OVAZBK">‘--created by’</a> @JamesHofstra’, so where
+							<ol>
+								<li><sup><a class="KENC7Z" id="OVB0DP" href="#OVB0DP">OVB0DP</a>: </sup>each span of sub-template text is in quotes ‘’ and is a link that sub-template's definition ideally in say the master template.</li>
+							</ol>
+							</li>
+						</ol>
 						</li>
 					</ol>
 					</li>
@@ -161,6 +190,10 @@
 		</li>
 		</ol>
 		</li>
+				</ol>
+				</li>
+				<li><a href="http://1.JotHere.com/OVBFFW#OVB7A9">‘section’</a><ol>
+					<li><sup><a class="KENC7Z" id="OVW592" href="#OVW592">OVW592</a>: </sup><a href="#OVW592">OVW592</a>: now to <a href="http://1.JotHere.com/OVBFFW#OVB7A9">‘section’</a> added 2 points :<a href="#OVW592">OVW592</a></li>
 				</ol>
 				</li>
 			</ol>

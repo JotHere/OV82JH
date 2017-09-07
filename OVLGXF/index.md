@@ -1,24 +1,19 @@
-<html>
-<head>
-<meta content="text/html; charset=UTF-8" http-equiv="content-type">
-
+<!DOCTYPE html><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <style type="text/css">
 .auto-style1 {
 	margin-left: 40px;
 }
-</style>
-</head>
-
-<body><a href="http://1.JotHere.com/OVBFFW#OVHNI5">‘JotHere.com notes on...’</a>
+</style></head><body>
+<a href="http://1.JotHere.com/OVBFFW#OVHNI5">‘JotHere.com notes on...’</a>
 <ol>
 		<li><sup><a class="KENC7Z" id="OVLJX8" href="#OVLJX8">OVLJX8</a>: </sup>‘{power notably electricity especially AC} when&nbsp;off-grid’ ‘especially portably’</li>
-		<li class="auto-style1"><sup><a class="KENC7Z" id="OVLH5X" href="#OVLH5X">OVLH5X</a>: </sup>AC power, especially when wall plugs not available, for typical events, starting with OCJavaScript&amp;­buds Simulsquad™ Meeting :<a href="#OVLH5X">OVLH5X</a>
+		<li class="auto-style1"><sup><a class="KENC7Z" id="OVLH5X" href="#OVLH5X">OVLH5X</a>: </sup>AC power, especially when wall plugs not available, for typical events, starting with OCJavaScript&amp;­buds SimulSquad™ Meeting :<a href="#OVLH5X">OVLH5X</a>
 		<ol>
 <li><span style="color: beige">NF87RL=</span><a href="http://1.JotHere.com/NDNK4T" target="_blank">summary &amp; intro</a>
 <ul class="fakeOL" type="1">
 <li><span style="color: beige">NF87RY=</span><a href="http://1.JotHere.com/NDNKX2" target="_blank">image:</a>
 <center><a href="http://www.meetup.com/OCJavaScript/photos">TBA</a>­</center></li>
-	<li><span style="color: beige">NF9579=</span><a href="http://1.JotHere.com/NDNK5Z">heading:</a>­ <b>AC power, especially when wall plugs not available, for typical events, starting with  <a href="http://www.meetup.com/OCJavaScript/messages/boards/thread/48074802/0?SEE.POINT=NBYVZ8#126713452">OCJavaScript&amp;­buds Simulsquad™ Meeting</a></b></li>
+	<li><span style="color: beige">NF9579=</span><a href="http://1.JotHere.com/NDNK5Z">heading:</a>­ <b>AC power, especially when wall plugs not available, for typical events, starting with  <a href="http://www.meetup.com/OCJavaScript/messages/boards/thread/48074802/0?SEE.POINT=NBYVZ8#126713452">OCJavaScript&amp;­buds SimulSquad™ Meeting</a></b></li>
 	<li><span style="color: beige">NF87VW=</span><a href="http://1.JotHere.com/NDSYLM"><b>UR­Ls:</b></a> -this thread</li>
 			<li><span style="color: beige">NF95DG=</span>Motivation
 
@@ -44,7 +39,7 @@
 					
 
 <ul class="fakeOL" type="1">
-						<li><span style="color: beige">NGAM1S=</span>~13 chainable AC outlet strips, each with 6 plugs plus ~3ft cord, which are best run on top a long table else underneith the center of tables</li>
+						<li><span style="color: beige">NGAM1S=</span>~13 chainable AC outlet strips, each with 6 plugs plus ~3ft cord, which are best run on top a long table else underneath the center of tables</li>
 						<li><span style="color: beige">NGAM3P=</span>~4 20ft extension cords</li>
 						<li><span style="color: beige">NGAMAP=</span>a ~5ft extension cord cover to cross a walkway (tape it down) so not a trip hazard</li>
 						<li><span style="color: beige">NGAMC5=</span>A big duffle bag to carry all this</li>
@@ -81,7 +76,7 @@
 
 <ul class="fakeOL" type="1">
 						<li><span style="color: beige">NF96OK=</span>rated: {output 19v*3.42a*115%}=75W</li>
-						<li><span style="color: beige">NF97HF=</span>actual sample: 28W(w/o charging batt)*{1.6 estimate for charging bat)=45W, avg <b>36W</b></li>
+						<li><span style="color: beige">NF97HF=</span>actual sample: 28W(w/o charging battery)*{1.6 estimate for charging bat)=45W, avg <b>36W</b></li>
 						<li><span style="color: beige">NF9898=</span>For qty 8: 291w</li>
 					</ul>
 					</li>
@@ -112,10 +107,10 @@
 					</ul>
 					</li>
 					<li><span style="color: beige">NROBF7=</span><a href="https://in.answers.yahoo.com/question/index?qid=20130401024038AAqv07H#yui_3_17_2_3_1437206361485_867">another microwave</a>: 900W heating with input 1400W so 64% efficient</li>
-					<li><span style="color: beige">NROBMW=</span><a href="http://www.bestbuy.com/site/microwaves/compact-microwaves/abcat0903002.c?id=abcat0903002">Smallest popuplar microwave is 700W output</a> so input from above estimated at 1085=700/average(.65,.64) however ‘800W Small Microwave’ says <a href="http://www.dcacpowerinverters.com/inverterguide.htm">http://www.dcacpoweri...</a>­ and others
+					<li><span style="color: beige">NROBMW=</span><a href="http://www.bestbuy.com/site/microwaves/compact-microwaves/abcat0903002.c?id=abcat0903002">Smallest popular microwave is 700W output</a> so input from above estimated at 1085=700/average(.65,.64) however ‘800W Small Microwave’ says <a href="http://www.dcacpowerinverters.com/inverterguide.htm">http://www.dcacpoweri...</a>­ and others
 
 <ul class="fakeOL" type="1">
-						<li><span style="color: beige">NROC7B=</span>Conclusion: the minimum inverter size in continouous: 1000W might work, 1200W to be safe.</li>
+						<li><span style="color: beige">NROC7B=</span>Conclusion: the minimum inverter size in continuous: 1000W might work, 1200W to be safe.</li>
 					</ul>
 					</li>
 					<li><span style="color: beige">NROHOC=</span><b><a href="http://www.amazon.com/ENERGIZER-Inverter-converts-battery-compatible/dp/B00APL77NW/ref=sr_1_5?ie=UTF8&amp;qid=1437214024&amp;sr=8-5&amp;keywords=energizer+inverter">Power usage chart by Energizer</a> --good one.</b>
@@ -138,26 +133,51 @@
 				</li>
 				<li><span style="color: beige">NF9677=</span>portable generator (gasoline to AC) under ~50lbs and not too noisy</li>
 <ol>
-<li class="list__item "><sup><a id="OVLQ6K" class="aself_KEP2FG">OVLQ6L</a>:</sup>&nbsp; from Home Depot: ‘30-Day Return Policy ..Generators (other than Whole House and Stationary Generators)’</li>
-<li><sup><a id="OVLOH1" class="aself_KEP2FG">OVLOH2</a>:</sup> search of inverter generators</li>
+<li class="list__item "><sup><a class="KENC7Z" id="OVLQ6L" href="#OVLQ6L">OVLQ6L</a>: </sup>from Home Depot: ‘30-Day Return Policy ..Generators (other than Whole House and Stationary Generators)’</li>
+<li><sup><a class="KENC7Z" id="OVLOH2" href="#OVLOH2">OVLOH2</a>: </sup>search of inverter generators</li>
 <ol>
-<li><sup><a id="OVLOZN" class="aself_KEP2FG">OVLOZO</a>:</sup> from roughly most preferred found so far</li>
+<li><sup><a class="KENC7Z" id="OVLOZO" href="#OVLOZO">OVLOZO</a>: </sup>from roughly most preferred found so far</li>
 <ol>
-<li><sup><a id="OVLR32" class="aself_KEP2FG">OVLR33</a>:</sup>&nbsp; Westinghouse WH2200iXLT: 1800 W running &amp; 2200 W peak power; 13 hours at 50% load</li>
+<li><sup><a class="KENC7Z" id="OVLR33" href="#OVLR33">OVLR33</a>: </sup>Westinghouse WH2200iXLT: 1800 W running &amp; 2200 W peak power; 13 hours at 50% load</li>
 <ol>
-<li><sup><a id="OVLKN9" class="aself_KEP2FG">OVLKN9</a>:</sup>&nbsp;<a href="http://homedepot.com/p/Westinghouse-2200-Watt-Gasoline-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH2200iXLT/205746116">http://homedepot.com/p/Westinghouse-2200-Watt-Gasoline-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH2200iXLT/205746116</a>; ‘$379.00; 4.6 stars on Home Depot (185 reviews)’</li>
-<li><sup><a id="OVLRIS" class="aself_KEP2FG">OVLRIT</a>:</sup> &nbsp;<a href="https://www.amazon.com/Westinghouse-WH2200iXLT-Portable-Inverter-Generator/dp/B00NHACROW">https://www.amazon.com/Westinghouse-WH2200iXLT-Portable-Inverter-Generator/dp/B00NHACROW</a> ; ‘4.3 out of 5 stars 781 customer reviews;| 433 answered questions; Price: &nbsp;&nbsp;&nbsp; $479.00 &amp; FREE Shipping. Details; ..choose Two-Day Shipping at checkout. Details; Ships from and sold by Amazon.com in easy-to-open packaging.; New (6) from $478.90 &amp; FREE shipping.’</li></ol>
-<li><sup><a id="OVLKO8" class="aself_KEP2FG">OVLKO8</a>:</sup> <a href="http://homedepot.com/p/A-iPower-1600-Watt-Gasoline-Powered-inverter-Portable-Generator-SUA2000i/300199211">http://homedepot.com/p/A-iPower-1600-Watt-Gasoline-Powered-inverter-Portable-Generator-SUA2000i/300199211</a>; ‘$399.99’; 4.4 stars on Home Depot (21 reviews); 1600 W running &amp; 2000 W power; 7 hours at 50% load<sup></sup> </li>
-<li><sup><a id="OVLKOH" class="aself_KEP2FG">OVLKOH</a>:</sup> <a href="http://homedepot.com/p/Champion-Power-Equipment-1-700-2-000-Watt-Recoil-Start-Gasoline-Powered-Portable-Inverter-Generator-73536i/203791700">http://homedepot.com/p/Champion-Power-Equipment-1-700-2-000-Watt-Recoil-Start-Gasoline-Powered-Portable-Inverter-Generator-73536i/203791700</a><span style="color: #0000ee;"></span> ; ‘$449.07’; 4.5 stars on Home Depot (455 reviews); 1700 W running &amp; 2000 W peak power; 4.75 hours at 50% load;<sup></sup> </li>
-<li><sup><a id="OVLKNZ" class="aself_KEP2FG">OVLKNZ</a>:</sup>&nbsp;<a href="http://homedepot.com/p/Dirty-Hand-Tools-1200-Watt-Gasoline-Powered-Digital-Inverter-Generator-104610/206958273">http://homedepot.com/p/Dirty-Hand-Tools-1200-Watt-Gasoline-Powered-Digital-Inverter-Generator-104610/206958273</a> ; ‘$399.99’; 4.0 stars on Home Depot (1 review);&nbsp;<sup></sup> 1000 W running &amp; 1200 W peak power; 9 hours at 50% load </li>
-<li><sup><a id="OVLLVF" class="aself_KEP2FG">OVLLVF</a>:</sup>&nbsp;<a href="http://homedepot.com/p/Westinghouse-1-000-1-100-Watt-Gas-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH1000i/204633550">http://homedepot.com/p/Westinghouse-1-000-1-100-Watt-Gas-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH1000i/204633550</a> ; ‘$425.99’; 4.8 stars on Home Depot (20 reviews); 1000 W running &amp; 1100 W peak power; 8 hours at 50% load<sup></sup> </li>
-<li><sup><a id="OVLKNG" class="aself_KEP2FG">OVLKNG</a>:</sup>&nbsp;<a href="http://homedepot.com/p/WEN-1250-Watt-Gas-Powered-Inverter-Generator-CARB-Compliant-56125i/302830857">http://homedepot.com/p/WEN-1250-Watt-Gas-Powered-Inverter-Generator-CARB-Compliant-56125i/302830857</a> ;‘$379.99’; 0 reviews; 1000 W running &amp; 1250 W peak power; 5 hours at 50% load</li>
-<li><sup><a id="OVLKDA" class="aself_KEP2FG">OVLKDA</a>:</sup>&nbsp;<a href="http://homedepot.com/p/LIFAN-Energy-Storm-2-000-Watt-105cc-Gasoline-Powered-Inverter-Generator-50-State-Compliant-ESI2000i-CSA-CA/206825296">http://homedepot.com/p/LIFAN-Energy-Storm-2-000-Watt-105cc-Gasoline-Powered-Inverter-Generator-50-State-Compliant-ESI2000i-CSA-CA/206825296</a> ; ‘$319.00’; 3.7 stars on Home Depot (62 reviews); 1600 W running &amp; 2000 W peak power; 3 hours at 50% load</li>
-<li><br></li></ol></ol></ol>
+<li><sup><a class="KENC7Z" id="OVLKN9" href="#OVLKN9">OVLKN9</a>: </sup><a href="http://homedepot.com/p/Westinghouse-2200-Watt-Gasoline-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH2200iXLT/205746116">http://homedepot.com/p/Westinghouse-2200-Watt-Gasoline-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH2200iXLT/205746116</a>; ‘Was&nbsp;&nbsp;$479.00, [now] $379.00&nbsp;/each Save $100.00 (21%)&nbsp;&nbsp;through&nbsp;09/10/2017 <a href="http://www.homedepot.com/p/Westinghouse-2200-Watt-Gasoline-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH2200iXLT/205746116#">Labor Day Savings</a> ; 4.6 stars on Home Depot (185 reviews)’<ol>
+ 	<li><a id="OVOD6W" class="aself_KEP2FG"></a><sup><a class="KENC7Z" id="OVWLOY" href="#OVWLOY">OVWLOY</a>: </sup>URL archive :<a href="#OVWLOY">#OVWLOY</a><ol>
+		<li><sup><a class="KENC7Z" id="OVWLHL" href="#OVWLHL">OVWLHL</a>: </sup>https://web.archive.org/save/http://homedepot.com/p/Westinghouse-2200-Watt-Gasoline-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH2200iXLT/205746116 #1 gives only <a href="https://web.archive.org/save/_embed/http://www.homedepot.com/p/Westinghouse-2200-Watt-Gasoline-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH2200iXLT/205746116">https://web.archive.org/save/_embed/http://www.homedepot.com/p/Westinghouse-2200-Watt-Gasoline-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH2200iXLT/205746116</a> which doesn't seem to be a real archive</li>
+		<li><sup><a class="KENC7Z" id="OVWLMQ" href="#OVWLMQ">OVWLMQ</a>: </sup>so get <a href="http://archive.is/tncGo">http://archive.is/tncGo</a> which has errors but appears still fully readable</li>
+	</ol>
+</li>
+	<li><sup><a class="KENC7Z" id="OVOD6X" href="#OVOD6X">OVOD6X</a>: </sup>reports ‘This product isn't currently sold in stores .. Out of stock online \ Receive an email if this item is back in stock. ’
+	:<a href="#OVOD6X">OVOD6X</a>
+<ol>
+ 	<li><sup><a class="KENC7Z" id="OVODA3" href="#OVODA3">OVODA3</a>: </sup>so now submit ‘OV..O6@mi.dreamhosters.com :<a href="#OVOAO6">OVOAO6</a>’ getting ‘<span class="alert-inline__title">Thank you! </span>We'll send you an email if this product is back in stock.’</li>
+	<li><sup><a class="KENC7Z" id="OVWL6J" href="#OVWL6J">OVWL6J</a>: </sup>on 2017.09.01SatPst21~ I went to Home Depot of 92630 to check ask customer service; rep Carol called HD online who told her (she said) {they've gotten a new shipment so expect notification within 48 hours and your price will be held} :<a href="#OVWL6J">OVWL6J</a></li>
+	<li><sup><a class="KENC7Z" id="OVWL1T" href="#OVWL1T">OVWL1T</a>: </sup>despite <a href="#OVWL6J">OVWL6J</a>, now still no change and no response email even tho only 3 days left. </li>
+	<li><sup><a class="KENC7Z" id="OVWLBK" href="#OVWLBK">OVWLBK</a>: </sup>I'm suspecting it continues to not available due to the 2 storms going on in the US: Harvey in TX and Irma in FL as news says generators are selling out.</li>
+</ol>
+</li>
+	<li><a href="http://1.JotHere.com/OVBFFW#OVB7A9">‘section’</a><ol>
+		<li><sup><a class="KENC7Z" id="OVWLFH" href="#OVWLFH">OVWLFH</a>: </sup>I Destiny add <a href="#OVOD6X">OVOD6X</a>+<a href="#OVWLOY">OVWLOY</a> :<a href="#OVWLFH">OVWLFH</a></li>
+	</ol>
+	</li>
+</ol>
+	</li>
+<li><sup><a class="KENC7Z" id="OVLRIT" href="#OVLRIT">OVLRIT</a>: </sup><a href="https://www.amazon.com/Westinghouse-WH2200iXLT-Portable-Inverter-Generator/dp/B00NHACROW">https://www.amazon.com/Westinghouse-WH2200iXLT-Portable-Inverter-Generator/dp/B00NHACROW</a> ; ‘4.3 out of 5 stars 781 customer reviews;| 433 answered questions; Price: &nbsp;&nbsp;&nbsp; $479.00 &amp; FREE Shipping. Details; ..choose Two-Day Shipping at checkout. Details; Ships from and sold by Amazon.com in easy-to-open packaging.; New (6) from $478.90 &amp; FREE shipping.’</li></ol>
+<li><sup><a class="KENC7Z" id="OVLKO8" href="#OVLKO8">OVLKO8</a>: </sup><a href="http://homedepot.com/p/A-iPower-1600-Watt-Gasoline-Powered-inverter-Portable-Generator-SUA2000i/300199211">http://homedepot.com/p/A-iPower-1600-Watt-Gasoline-Powered-inverter-Portable-Generator-SUA2000i/300199211</a>; ‘$399.99’; 4.4 stars on Home Depot (21 reviews); 1600 W running &amp; 2000 W power; 7 hours at 50% load<sup></sup> </li>
+<li><sup><a class="KENC7Z" id="OVLKOH" href="#OVLKOH">OVLKOH</a>: </sup><a href="http://homedepot.com/p/Champion-Power-Equipment-1-700-2-000-Watt-Recoil-Start-Gasoline-Powered-Portable-Inverter-Generator-73536i/203791700">http://homedepot.com/p/Champion-Power-Equipment-1-700-2-000-Watt-Recoil-Start-Gasoline-Powered-Portable-Inverter-Generator-73536i/203791700</a><span style="color: #0000ee;"></span> ; ‘$449.07’; 4.5 stars on Home Depot (455 reviews); 1700 W running &amp; 2000 W peak power; 4.75 hours at 50% load;<sup></sup> </li>
+<li><sup><a class="KENC7Z" id="OVLKNZ" href="#OVLKNZ">OVLKNZ</a>: </sup><a href="http://homedepot.com/p/Dirty-Hand-Tools-1200-Watt-Gasoline-Powered-Digital-Inverter-Generator-104610/206958273">http://homedepot.com/p/Dirty-Hand-Tools-1200-Watt-Gasoline-Powered-Digital-Inverter-Generator-104610/206958273</a> ; ‘$399.99’; 4.0 stars on Home Depot (1 review);&nbsp;<sup></sup> 1000 W running &amp; 1200 W peak power; 9 hours at 50% load </li>
+<li><sup><a class="KENC7Z" id="OVLLVF" href="#OVLLVF">OVLLVF</a>: </sup><a href="http://homedepot.com/p/Westinghouse-1-000-1-100-Watt-Gas-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH1000i/204633550">http://homedepot.com/p/Westinghouse-1-000-1-100-Watt-Gas-Powered-Digital-Inverter-Generator-with-Parallel-Capabilities-WH1000i/204633550</a> ; ‘$425.99’; 4.8 stars on Home Depot (20 reviews); 1000 W running &amp; 1100 W peak power; 8 hours at 50% load<sup></sup> </li>
+<li><sup><a class="KENC7Z" id="OVLKNG" href="#OVLKNG">OVLKNG</a>: </sup><a href="http://homedepot.com/p/WEN-1250-Watt-Gas-Powered-Inverter-Generator-CARB-Compliant-56125i/302830857">http://homedepot.com/p/WEN-1250-Watt-Gas-Powered-Inverter-Generator-CARB-Compliant-56125i/302830857</a> ;‘$379.99’; 0 reviews; 1000 W running &amp; 1250 W peak power; 5 hours at 50% load</li>
+<li><sup><a class="KENC7Z" id="OVLKDA" href="#OVLKDA">OVLKDA</a>: </sup><a href="http://homedepot.com/p/LIFAN-Energy-Storm-2-000-Watt-105cc-Gasoline-Powered-Inverter-Generator-50-State-Compliant-ESI2000i-CSA-CA/206825296">http://homedepot.com/p/LIFAN-Energy-Storm-2-000-Watt-105cc-Gasoline-Powered-Inverter-Generator-50-State-Compliant-ESI2000i-CSA-CA/206825296</a> ; ‘$319.00’; 3.7 stars on Home Depot (62 reviews); 1600 W running &amp; 2000 W peak power; 3 hours at 50% load</li>
+</ol></ol>
+	<li><a href="http://1.JotHere.com/OVBFFW#OVB7A9">‘section’</a><ol>
+		<li><sup><a class="KENC7Z" id="OVLQY8" href="#OVLQY8">OVLQY8</a>: </sup>James H commit: ‘added information on inverter generators’ <a href="#OVLQ6L">OVLQ6L</a>+<a href="#OVLOH2">OVLOH2</a> :<a href="#OVLQY8">OVLQY8</a><br></li>
+	</ol>
+	</li>
+				</ol>
 				<li><span style="color: beige">NGB6S3=</span>Very likely only outdoors, never indoors
 
 <ul class="fakeOL" type="1">
-					<li><span style="color: beige">NGB6SL=</span>And a burning generator (as gas) likely would not be permitted indoors (and due to any noise, one would be unlikely to get away with it sneaking it it) and may not be safe and certainly would be readily perceived unsafe.</li>
+					<li><span style="color: beige">NGB6SL=</span>And a burning generator (as gas) likely would not be permitted indoors (and due to any noise, one would be unlikely to get away with it sneaking it and may not be safe and certainly would be readily perceived unsafe.</li>
 					<li><span style="color: beige">NGB6V0=</span>So for indoor power, the generator would almost certainly have to put outdoors (for noise &amp; air safety) and then that would involve running a cord from outdoors to indoors (which readily may not be permitted) and require the generator to be secured (as chained to something) so it would not be taken  and likely also making it hard to watch &amp; monitor.<br>
 					<ul class="fakeOL" type="1">
 					</ul>
@@ -168,7 +188,7 @@
 
 <ul class="fakeOL" type="1">
 					<li><span style="color: beige">NF96BT=</span><a href="http://www.amazon.com/PowerPro-56101-2-Stroke-Generator-1000-watt/dp/B00J261PGQ/ref=sr_1_2?s=lawn-garden&amp;ie=UTF8&amp;qid=1416297190&amp;sr=1-2&amp;keywords=generator&amp;pebp=1416297318283" target="_blank">WEN PowerPro 56101 from Amazon <b>4.3(highest in category)</b>of5</a></li>
-					<li><span style="color: beige">NF9CL1=</span><a href="http://www.homedepot.com/p/All-Power-1-000-Watt-2-Stroke-Gasoline-Powered-Portable-Generator-APG3004A/202757597?N=5yc1vZbx9n" target="_blank">All Power 1000w (from HomeDepot)</a> (<a href="http://www.amazon.com/All-Power-America-APG3004-1000-Watt/dp/B0017YV188" target="_blank">Amazon <b>3.2</b>of5</a>) of <a href="http://www.homedepot.com/p/compare/?errorURL=ProductAttributeErrorView&amp;langId=-1&amp;storeId=10051&amp;catalogId=10053&amp;prodComp_0=100678248&amp;prodComp_1=202757597&amp;prodComp_2=203451885&amp;prodComp_3=204855035&amp;N=5yc1vZbx9n" target="_blank">their 4 low-price possibilities</a></li>
+					<li><span style="color: beige">NF9CL1=</span><a href="http://www.homedepot.com/p/All-Power-1-000-Watt-2-Stroke-Gasoline-Powered-Portable-Generator-APG3004A/202757597?N=5yc1vZbx9n" target="_blank">All Power 1000w (from Home Depot)</a> (<a href="http://www.amazon.com/All-Power-America-APG3004-1000-Watt/dp/B0017YV188" target="_blank">Amazon <b>3.2</b>of5</a>) of <a href="http://www.homedepot.com/p/compare/?errorURL=ProductAttributeErrorView&amp;langId=-1&amp;storeId=10051&amp;catalogId=10053&amp;prodComp_0=100678248&amp;prodComp_1=202757597&amp;prodComp_2=203451885&amp;prodComp_3=204855035&amp;N=5yc1vZbx9n" target="_blank">their 4 low-price possibilities</a></li>
 				</ul>
 				</li>
 				<li><span style="color: beige">NF968L=</span>large battery(s) plus an inverter
@@ -183,14 +203,14 @@
 <ul class="fakeOL" type="1">
 							<li><span style="color: beige">NGYICZ=</span>from at least 1 car (as many as needed: see below), remove the car battery out and place it in a plastic (so liquid proof) trash bag and then into say a Whole Foods or similar reusable grocery bag</li>
 							<li><span style="color: beige">NGYIEV=</span>to as many batteries as simultaneous power requirement (as 1 or more), attach an inverter of say &gt;400W which also goes into the bag</li>
-							<li><span style="color: beige">NGYIFT=</span>if staying at the venue beyond the batterylife, to each of many batteries as in the last step, attach a small but powerful battery charger, as 15A, which also goes in the bag</li>
+							<li><span style="color: beige">NGYIFT=</span>if staying at the venue beyond the battery life, to each of many batteries as in the last step, attach a small but powerful battery charger, as 15A, which also goes in the bag</li>
 							<li><span style="color: beige">NGYIHH=</span>
 <ul class="fakeOL" type="1">
 								bring all prepared batteries into the venue</ul>
 							</li>
 							<li><span style="color: beige">NGYILY=</span>the batteries with inverters, bring to the worksite (as tables w/o plugs) to give the AC power there</li>
 							<li><span style="color: beige">NGYIN7=</span>to batteries with chargers, place them by a nearby usable AC outlet and plug them in to charge</li>
-							<li><span style="color: beige">NGYIO7=</span>as each battery with inverter runs out of power, cary it to the a battery charging, swap the inverter &amp; charger (so now the emptied battery is charging), and bring the new power pack back to the worksite to continue operating.</li>
+							<li><span style="color: beige">NGYIO7=</span>as each battery with inverter runs out of power, carry it to the a battery charging, swap the inverter &amp; charger (so now the emptied battery is charging), and bring the new power pack back to the worksite to continue operating.</li>
 						</ul>
 						</li>
 						<li><span style="color: beige">NGYIRB=</span>Pros thru cons
@@ -224,7 +244,7 @@
 						<li><span style="color: beige">NGYJ0R=</span>High-capacity batteries are readily serious headaches: very expensive else {very heavy and with acid so that, with just a touch, eats thru clothes, plus in a vehicle must be secured else very dangerous in an accident }</li>
 						<li><span style="color: beige">NF9AZP=</span>RC to aH: RC*(1hr/60min)*25a=<b>1/2.4*hr/min*a</b>­</li>
 						<li><span style="color: beige">NF9BED=</span>12v battery effective voltage: average(12.7,10.5)=<b>11.6</b></li>
-						<li><span style="color: beige">NF9ATN=</span>a largest common lead acid battery as Costco 850982 (size 27DC, 1 year warranty, 160 RC, $78.99+$15 core, est 60lbs) 
+						<li><span style="color: beige">NF9ATN=</span>a largest common lead acid battery as Costco 850982 (size 27DC, 1 year warranty, 160 RC, $78.99+$15 core, est. 60lbs) 
 						
 
 <ul class="fakeOL" type="1">
@@ -294,7 +314,7 @@
 	</ol>
 	</li>
 	<li><sup><a class="KENC7Z" id="O806VX" href="#O806VX">O806VX</a>: </sup>use as template&nbsp;<a href="/5526#O8078D">/5526#O8078D</a></li>
- 	<li><sup><a class="KENC7Z" id="O7JJDT" href="#O7JJDT">O7JJDT</a>: </sup>‘op’{<strong>resume editing</strong> <strong>after</strong> {;date <strong>2016.05.21</strong>SatPs ;<strong>polish</strong> <strong>.1</strong>&nbsp;;version&nbsp;0 ;words&nbsp;305 ;<strong>revision 1</strong>} after create {this ‘document’&nbsp;for http://1.JotHere.com/5519#O73I5F} by following NXBIBI with {{template plus no source text} with last {addition if known else history entry} /5519#O7A4WL&nbsp;{as {post latest #1} and {related: very reotely}} after {;date Pst1158} &nbsp;after {realize I need a post after per size, putting everything in sheet of stuff transferring (here-to-get) is inadequate}}</li>
+ 	<li><sup><a class="KENC7Z" id="O7JJDT" href="#O7JJDT">O7JJDT</a>: </sup>‘op’{<strong>resume editing</strong> <strong>after</strong> {;date <strong>2016.05.21</strong>SatPs ;<strong>polish</strong> <strong>.1</strong>&nbsp;;version&nbsp;0 ;words&nbsp;305 ;<strong>revision 1</strong>} after create {this ‘document’&nbsp;for http://1.JotHere.com/5519#O73I5F} by following NXBIBI with {{template plus no source text} with last {addition if known else history entry} /5519#O7A4WL&nbsp;{as {post latest #1} and {related: very remotely}} after {;date Pst1158} &nbsp;after {realize I need a post after per size, putting everything in sheet of stuff transferring (here-to-get) is inadequate}}</li>
  	<li><sup><a class="KENC7Z" id="O7JT4J" href="#O7JT4J">O7JT4J</a>: </sup>realized it deserved its own post &amp; concept after prior did this work strictly integrated into other project documents</li>
 </ol>
 </li>
@@ -319,7 +339,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7JKSF" href="#O7JKSF">O7JKSF</a>: </sup>transition to renuable energy sources especially solar &amp; wind, and away from gasoline</li>
+ 	<li><sup><a class="KENC7Z" id="O7JKSF" href="#O7JKSF">O7JKSF</a>: </sup>transition to renewable energy sources especially solar &amp; wind, and away from gasoline</li>
  	<li><sup><a class="KENC7Z" id="O7JL29" href="#O7JL29">O7JL29</a>: </sup>depend more &amp; more on electronic gadgets</li>
 </ol>
 </li>
@@ -336,7 +356,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7JL0F" href="#O7JL0F">O7JL0F</a>: </sup>and in the opinion of many others world-wide, seemingly mostly guys though hopefully more gals find interst, too</li>
+ 	<li><sup><a class="KENC7Z" id="O7JL0F" href="#O7JL0F">O7JL0F</a>: </sup>and in the opinion of many others world-wide, seemingly mostly guys though hopefully more gals find interest, too</li>
 </ol>
 </li>
  	<li><sup><a class="KENC7Z" id="O7JKV8" href="#O7JKV8">O7JKV8</a>: </sup>and for that, near-most &amp; increasing key is having proper electricity</li>
@@ -400,7 +420,7 @@
 </sup>
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JMGR" href="#O7JMGR">O7JMGR</a>: </sup>nearing&nbsp;‘up to say 1 standard max AC circuit so 20A*120V=2400W’</li>
- 	<li><sup><a class="KENC7Z" id="O7JNIB" href="#O7JNIB">O7JNIB</a>: </sup>with proprotionate impulse/surge capability :<a href="#O7JNIB">O7JNIB</a>
+ 	<li><sup><a class="KENC7Z" id="O7JNIB" href="#O7JNIB">O7JNIB</a>: </sup>with proportionate impulse/surge capability :<a href="#O7JNIB">O7JNIB</a>
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JNJ2" href="#O7JNJ2">O7JNJ2</a>: </sup>to allow notably motor startup &amp; other direction change<sup>
 </sup>
@@ -410,7 +430,7 @@
 
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JN1A" href="#O7JN1A">O7JN1A</a>: </sup>though so far I have no plans for these, not working in that space.</li>
- 	<li><sup><a class="KENC7Z" id="O7JMZ1" href="#O7JMZ1">O7JMZ1</a>: </sup>apparently a big deal for RC(Remote Control) toy/drone applications, as battery packs advertize discharge rates up to {35C: example <a href="#O7JTNS">O7JTNS</a>}</li>
+ 	<li><sup><a class="KENC7Z" id="O7JMZ1" href="#O7JMZ1">O7JMZ1</a>: </sup>apparently a big deal for RC(Remote Control) toy/drone applications, as battery packs advertise discharge rates up to {35C: example <a href="#O7JTNS">O7JTNS</a>}</li>
 </ol>
 </li>
 </ol>
@@ -429,7 +449,7 @@
 </li>
 </ol>
 </li>
- 	<li><sup><a class="KENC7Z" id="O7JMHI" href="#O7JMHI">O7JMHI</a>: </sup>portablity, notably
+ 	<li><sup><a class="KENC7Z" id="O7JMHI" href="#O7JMHI">O7JMHI</a>: </sup>portability, notably
 
 
 <ol>
@@ -442,7 +462,7 @@
 </li>
 </ol>
 </li>
- 	<li><sup><a class="KENC7Z" id="O7JWIC" href="#O7JWIC">O7JWIC</a>: </sup>breakdown by DC vs AC
+ 	<li><sup><a class="KENC7Z" id="O7JWIC" href="#O7JWIC">O7JWIC</a>: </sup>breakdown by DC vs. AC
 
 
 <ol>
@@ -469,7 +489,7 @@
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JWH5" href="#O7JWH5">O7JWH5</a>: </sup>‘battery bank/pack :<a href="#O7JLRB">O7JLRB</a>’ including all connected related components except only the DC portion of ‘DC/AC conversion :<a href="#O7JYRY">O7JYRY</a>’&nbsp;<sup>
 </sup></li>
- 	<li><sup><a class="KENC7Z" id="O7JXA1" href="#O7JXA1">O7JXA1</a>: </sup>other DC wiriting</li>
+ 	<li><sup><a class="KENC7Z" id="O7JXA1" href="#O7JXA1">O7JXA1</a>: </sup>other DC wiring</li>
 </ol>
 </li>
  	<li><sup><a class="KENC7Z" id="O7KJ9L" href="#O7KJ9L">O7KJ9L</a>: </sup>wiring size &amp; material
@@ -504,11 +524,11 @@
 
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JWYV" href="#O7JWYV">O7JWYV</a>: </sup>less {expense: $/Wh} and maintenance battery packs due to being able to have more batteries in series, for instance compare 6S&nbsp;<a href="#O7JTNS">O7JTNS</a>&nbsp;with that seller's {lower S offerings: 4S &amp; 3S}.</li>
- 	<li><sup><a class="KENC7Z" id="O7JWKC" href="#O7JWKC">O7JWKC</a>: </sup>dramatically&nbsp;less&nbsp;wire thinkness &amp; weak-connection waste due to V=I*R, so 2x the voltage means 1/4th the amperage<sup>
+ 	<li><sup><a class="KENC7Z" id="O7JWKC" href="#O7JWKC">O7JWKC</a>: </sup>dramatically&nbsp;less&nbsp;wire thickness &amp; weak-connection waste due to V=I*R, so 2x the voltage means 1/4th the amperage<sup>
 </sup></li>
  	<li><sup><a class="KENC7Z" id="O7JYIS" href="#O7JYIS">O7JYIS</a>: </sup>in the range else nearer to solar which I recall is in ~18v (per panel) increments</li>
  	<li>(gap)</li>
- 	<li><sup><a class="KENC7Z" id="O7JXM7" href="#O7JXM7">O7JXM7</a>: </sup>ability to drive {directly so much more efficienctly} higher-voltage DC loads
+ 	<li><sup><a class="KENC7Z" id="O7JXM7" href="#O7JXM7">O7JXM7</a>: </sup>ability to drive {directly so much more efficiently} higher-voltage DC loads
 
 
 <ol>
@@ -520,7 +540,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7JWO9" href="#O7JWO9">O7JWO9</a>: </sup>common inexpensive (so 12v Lead Acid) &nbsp;inveters high-voltage cut-off: ~15.4v per O7JWT0
+ 	<li><sup><a class="KENC7Z" id="O7JWO9" href="#O7JWO9">O7JWO9</a>: </sup>common inexpensive (so 12v Lead Acid) &nbsp;inviters high-voltage cut-off: ~15.4v per O7JWT0
 
 
 <ol>
@@ -553,7 +573,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7JY34" href="#O7JY34">O7JY34</a>: </sup>notable pros thu cons
+ 	<li><sup><a class="KENC7Z" id="O7JY34" href="#O7JY34">O7JY34</a>: </sup>notable pros thru cons
 
 
 <ol>
@@ -592,18 +612,18 @@
 
 <ol>
  	<li><sup><a class="KENC7Z" id="O7K6X7" href="#O7K6X7">O7K6X7</a>: </sup>allows virtually infinite running on batteries!</li>
- 	<li><sup><a class="KENC7Z" id="O7K6YR" href="#O7K6YR">O7K6YR</a>: </sup>allows batteries to be smaller by typically several times, including proprotinate to how easy one can swap them out</li>
- 	<li><sup><a class="KENC7Z" id="O7K72R" href="#O7K72R">O7K72R</a>: </sup>allows power on site to be obtained from easy sources (as nearby grid), decreasing if not eliminating having to produce oneself (which is also hard to do portably) by solar, wind, gasolone</li>
+ 	<li><sup><a class="KENC7Z" id="O7K6YR" href="#O7K6YR">O7K6YR</a>: </sup>allows batteries to be smaller by typically several times, including proportionate to how easy one can swap them out</li>
+ 	<li><sup><a class="KENC7Z" id="O7K72R" href="#O7K72R">O7K72R</a>: </sup>allows power on site to be obtained from easy sources (as nearby grid), decreasing if not eliminating having to produce oneself (which is also hard to do portably) by solar, wind, gasoline</li>
  	<li>--</li>
  	<li><sup><a class="KENC7Z" id="O7K71E" href="#O7K71E">O7K71E</a>: </sup>requires ‘significant additional surge-capacity :<a href="#O7K71E">O7K71E</a>
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JMW4" href="#O7JMW4">O7JMW4</a>: </sup>as this allows the portable batteries to be small (as you can readily swap out) provided they can still deliver the impulse power for say the short time you turn on the microwave, overhead projector, big saw/drill, etc.</li>
- 	<li><sup><a class="KENC7Z" id="O7JN1X" href="#O7JN1X">O7JN1X</a>: </sup>as opposed to where, when operating, you can have with you all the batteries you'll need including full ability to reacharge them
+ 	<li><sup><a class="KENC7Z" id="O7JN1X" href="#O7JN1X">O7JN1X</a>: </sup>as opposed to where, when operating, you can have with you all the batteries you'll need including full ability to recharge them
 
 
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JN8V" href="#O7JN8V">O7JN8V</a>: </sup>as is possible for a fixed-building, or even motorhome or trailer, &nbsp;if powered by solar or wind or gas-generator</li>
- 	<li><sup><a class="KENC7Z" id="O7JN92" href="#O7JN92">O7JN92</a>: </sup>as the battery used to get thru the days or weeks without outside electricity is then typically already large enough to have plenty of inherient impulse power</li>
+ 	<li><sup><a class="KENC7Z" id="O7JN92" href="#O7JN92">O7JN92</a>: </sup>as the battery used to get thru the days or weeks without outside electricity is then typically already large enough to have plenty of inherent impulse power</li>
 </ol>
 </li>
 </ol>
@@ -680,7 +700,7 @@
 
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JPOE" href="#O7JPOE">O7JPOE</a>: </sup>.025 (!) per {Wikipedia's present stats&nbsp;O7ICFX &amp;&nbsp;O7I9G4} from&nbsp;<a href="#O7JLWI">O7JLWI</a></li>
- 	<li><sup><a class="KENC7Z" id="O7JPSZ" href="#O7JPSZ">O7JPSZ</a>: </sup>.2~ the best it looks like I'm able to get after extremely careful shopping, for say a Walmart biggest deep cycle battery vs carefully-picked {18650s, but still haven't fully figured out how to well pack them into equivalent-sized&nbsp;banks}.</li>
+ 	<li><sup><a class="KENC7Z" id="O7JPSZ" href="#O7JPSZ">O7JPSZ</a>: </sup>.2~ the best it looks like I'm able to get after extremely careful shopping, for say a Walmart biggest deep cycle battery vs. carefully-picked {18650s, but still haven't fully figured out how to well pack them into equivalent-sized&nbsp;banks}.</li>
 </ol>
 </li>
 </ol>
@@ -726,12 +746,12 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7LEZC" href="#O7LEZC">O7LEZC</a>: </sup>driing&nbsp;a stanard 24v lead acid inverter:
+ 	<li><sup><a class="KENC7Z" id="O7LEZC" href="#O7LEZC">O7LEZC</a>: </sup>driving&nbsp;a standard 24v lead acid inverter:
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7LEZ6" href="#O7LEZ6">O7LEZ6</a>: </sup>search fo r it:&nbsp;<a href="https://www.google.com/search?q=6S+LiPo+OR+Lithium+battery+24v+%22inverter%22&amp;oq=6S+LiPo+OR+Lithium+battery+24v+%22inverter%22&amp;aqs=chrome..69i57.486j0j9&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=6S+LiPo+OR+Lithium+battery+24v+%22inverter</a>&nbsp;--currently pg 1 finds nothing</li>
- 	<li><sup><a class="KENC7Z" id="O7KQ0N" href="#O7KQ0N">O7KQ0N</a>: </sup>low voltage &nbsp;cut-off is a problem inverters, while the batts still have more. Minimum voltage inv required:
+ 	<li><sup><a class="KENC7Z" id="O7LEZ6" href="#O7LEZ6">O7LEZ6</a>: </sup>search for it:&nbsp;<a href="https://www.google.com/search?q=6S+LiPo+OR+Lithium+battery+24v+%22inverter%22&amp;oq=6S+LiPo+OR+Lithium+battery+24v+%22inverter%22&amp;aqs=chrome..69i57.486j0j9&amp;sourceid=chrome&amp;ie=UTF-8">https://www.google.com/search?q=6S+LiPo+OR+Lithium+battery+24v+%22inverter</a>&nbsp;--currently pg. 1 finds nothing</li>
+ 	<li><sup><a class="KENC7Z" id="O7KQ0N" href="#O7KQ0N">O7KQ0N</a>: </sup>low voltage &nbsp;cut-off is a problem inverters, while the batteries still have more. Minimum voltage inv required:
 
 
 <ol>
@@ -930,7 +950,7 @@
  	<li>--</li>
  	<li><sup><a class="KENC7Z" id="O7JM50" href="#O7JM50">O7JM50</a>: </sup>safety risks, notably acid eats clothes</li>
  	<li><sup><a class="KENC7Z" id="O7JM5X" href="#O7JM5X">O7JM5X</a>: </sup>bulky, and must be kept upright</li>
- 	<li><sup><a class="KENC7Z" id="O7K7K3" href="#O7K7K3">O7K7K3</a>: </sup>NOT ‘charge fast :<a href="#O7K6TD">O7K6TD</a>’ --unless big banks (for at least then being able to soak up a lot) but then the batts are way too heavy &amp; bulky</li>
+ 	<li><sup><a class="KENC7Z" id="O7K7K3" href="#O7K7K3">O7K7K3</a>: </sup>NOT ‘charge fast :<a href="#O7K6TD">O7K6TD</a>’ --unless big banks (for at least then being able to soak up a lot) but then the batteries are way too heavy &amp; bulky</li>
  	<li><sup><a class="KENC7Z" id="O7JM74" href="#O7JM74">O7JM74</a>: </sup>too heavy for not all but most portability</li>
 </ol>
 </li>
@@ -952,13 +972,13 @@
 
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JZ77" href="#O7JZ77">O7JZ77</a>: </sup>likely better Wh/$ though that's decreasing</li>
- 	<li><sup><a class="KENC7Z" id="O7JZ8Y" href="#O7JZ8Y">O7JZ8Y</a>: </sup>servicable portions :<a href="#O7JZ8Y">O7JZ8Y</a></li>
+ 	<li><sup><a class="KENC7Z" id="O7JZ8Y" href="#O7JZ8Y">O7JZ8Y</a>: </sup>serviceable portions :<a href="#O7JZ8Y">O7JZ8Y</a></li>
  	<li><sup><a class="KENC7Z" id="O7JZ7M" href="#O7JZ7M">O7JZ7M</a>: </sup>notably better ability to source power off interior layers
 
 
 <ol>
  	<li><sup><a class="KENC7Z" id="O7JZ9Y" href="#O7JZ9Y">O7JZ9Y</a>: </sup>need probably low</li>
- 	<li><sup><a class="KENC7Z" id="O7JZAQ" href="#O7JZAQ">O7JZAQ</a>: </sup>must be done balanced else do ‘servicable portions :<a href="#O7JZ8Y">O7JZ8Y</a>’</li>
+ 	<li><sup><a class="KENC7Z" id="O7JZAQ" href="#O7JZAQ">O7JZAQ</a>: </sup>must be done balanced else do ‘serviceable portions :<a href="#O7JZ8Y">O7JZ8Y</a>’</li>
 </ol>
 </li>
  	<li>--</li>
@@ -995,7 +1015,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7K4B6" href="#O7K4B6">O7K4B6</a>: </sup>lead-acid: this appears the most common so far, esepcially among solar ones.</li>
+ 	<li><sup><a class="KENC7Z" id="O7K4B6" href="#O7K4B6">O7K4B6</a>: </sup>lead-acid: this appears the most common so far, especially among solar ones.</li>
  	<li><sup><a class="KENC7Z" id="O7K44S" href="#O7K44S">O7K44S</a>: </sup>‘lithium ion :<a href="#O7JM1K">O7JM1K</a>’
 
 
@@ -1022,7 +1042,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7K52Y" href="#O7K52Y">O7K52Y</a>: </sup>have additional features for when supply power comes &amp; goes (as sun obscured by clouds, shadows, etc)?
+ 	<li><sup><a class="KENC7Z" id="O7K52Y" href="#O7K52Y">O7K52Y</a>: </sup>have additional features for when supply power comes &amp; goes (as sun obscured by clouds, shadows, etc.)?
 
 
 <ol>
@@ -1053,7 +1073,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7K37A" href="#O7K37A">O7K37A</a>: </sup><a href="http://smile.amazon.com/Icharger-4010DUO-iCharger-4010Duo/dp/B00CDAPKQ4/ref=sr_1_3?s=toys-and-games&amp;ie=UTF8&amp;qid=1463882615&amp;sr=1-3&amp;keywords=iCharger">http://smile.amazon.com/Icharger-4010DUO-iCharger-4010Duo/dp/B00CDAPKQ4</a>&nbsp;(70A (syncronous) aka 2000W : these values may not agree) :<a href="#O7K37A">O7K37A</a>
+ 	<li><sup><a class="KENC7Z" id="O7K37A" href="#O7K37A">O7K37A</a>: </sup><a href="http://smile.amazon.com/Icharger-4010DUO-iCharger-4010Duo/dp/B00CDAPKQ4/ref=sr_1_3?s=toys-and-games&amp;ie=UTF8&amp;qid=1463882615&amp;sr=1-3&amp;keywords=iCharger">http://smile.amazon.com/Icharger-4010DUO-iCharger-4010Duo/dp/B00CDAPKQ4</a>&nbsp;(70A (synchronous) aka 2000W : these values may not agree) :<a href="#O7K37A">O7K37A</a>
 <ol>
  	<li><sup><a class="KENC7Z" id="O7K3WZ" href="#O7K3WZ">O7K3WZ</a>: </sup>also similar ~7% less-expensive <a href="http://smile.amazon.com/iCharger-406Duo-Channel-Balance-Charger/dp/B00ZP62H3C/ref=sr_1_4?s=toys-and-games&amp;ie=UTF8&amp;qid=1463882615&amp;sr=1-4&amp;keywords=iCharger">http://smile.amazon.com/iCharger-406Duo-Channel-Balance-Charger/dp/B00ZP62H3C</a></li>
  	<li><sup><a class="KENC7Z" id="O7K3H4" href="#O7K3H4">O7K3H4</a>: </sup><a href="http://smile.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dtoys-and-games&amp;field-keywords=iCharger">iCharger makes</a> less ones, too, and I've read is well-respected.</li>
@@ -1074,7 +1094,7 @@
 </li>
  	<li><sup><a class="KENC7Z" id="O7JRMM" href="#O7JRMM">O7JRMM</a>: </sup>power supply, notably grid-AC to DC converter :<a href="#O7JRMM">O7JRMM</a>
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7JRU7" href="#O7JRU7">O7JRU7</a>: </sup>for powering especially charinging from
+ 	<li><sup><a class="KENC7Z" id="O7JRU7" href="#O7JRU7">O7JRU7</a>: </sup>for powering especially charging from
 
 
 <ol>
@@ -1103,7 +1123,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7JS7G" href="#O7JS7G">O7JS7G</a>: </sup>a little better handling &amp; asthetics</li>
+ 	<li><sup><a class="KENC7Z" id="O7JS7G" href="#O7JS7G">O7JS7G</a>: </sup>a little better handling &amp; aesthetics</li>
  	<li>--</li>
  	<li><sup><a class="KENC7Z" id="O7JS44" href="#O7JS44">O7JS44</a>: </sup>wasteful part-wise in cases ‘DC sources :<a href="#O7JRO4">O7JRO4</a>’</li>
  	<li><sup><a class="KENC7Z" id="O7JS1O" href="#O7JS1O">O7JS1O</a>: </sup>can't independently scale &amp; service &amp; select each</li>
@@ -1135,7 +1155,7 @@
  	<li><sup><a class="KENC7Z" id="O7K1A6" href="#O7K1A6">O7K1A6</a>: </sup>taking worst of 12v inverter and {3S so nominal voltage 3.7*3=11.1v}, *30A=333W, *80A=888W --so notably less power than our goal. &nbsp;Using 6S, so doubling the voltage, would then double these, so, with the 80A, 1776W, barely enough for most microwaves.</li>
 </ol>
 </li>
- 	<li><sup><a class="KENC7Z" id="O7K110" href="#O7K110">O7K110</a>: </sup>least epensive; <a href="http://smile.amazon.com/Connector-Parallel-Charging-Balance-Charger/dp/B00GJCANZ0/ref=pd_day0_21_7?ie=UTF8&amp;dpID=41oTTgZFAML&amp;dpSrc=sims&amp;preST=_AC_UL160_SR160%2C160_&amp;refRID=12GQJ4EX2QEFY7QXJRMY">most expensive</a>&nbsp;also has ‘Max current: 30A’</li>
+ 	<li><sup><a class="KENC7Z" id="O7K110" href="#O7K110">O7K110</a>: </sup>least expensive; <a href="http://smile.amazon.com/Connector-Parallel-Charging-Balance-Charger/dp/B00GJCANZ0/ref=pd_day0_21_7?ie=UTF8&amp;dpID=41oTTgZFAML&amp;dpSrc=sims&amp;preST=_AC_UL160_SR160%2C160_&amp;refRID=12GQJ4EX2QEFY7QXJRMY">most expensive</a>&nbsp;also has ‘Max current: 30A’</li>
  	<li><sup><a class="KENC7Z" id="O7K16F" href="#O7K16F">O7K16F</a>: </sup>physically joins up to 7 battery packs it appears (other factors may limit this)</li>
  	<li><sup><a class="KENC7Z" id="O7K11G" href="#O7K11G">O7K11G</a>: </sup>appears compatible with battery&nbsp;<a href="#O7JTNS">O7JTNS</a></li>
 </ol>
@@ -1219,7 +1239,7 @@
 </li>
 </ol>
 </li>
- 	<li><sup><a class="KENC7Z" id="O7JVA8" href="#O7JVA8">O7JVA8</a>: </sup>appear no more expensive than those w/o this feature, and suprisingly less-expensive for ‘pure (sine-wave) :<a href="#O7JUQE">O7JUQE</a>’
+ 	<li><sup><a class="KENC7Z" id="O7JVA8" href="#O7JVA8">O7JVA8</a>: </sup>appear no more expensive than those w/o this feature, and surprisingly less-expensive for ‘pure (sine-wave) :<a href="#O7JUQE">O7JUQE</a>’
 
 
 <ol>
@@ -1267,7 +1287,7 @@
 
 
 <ol>
- 	<li><sup><a class="KENC7Z" id="O7KMT4" href="#O7KMT4">O7KMT4</a>: </sup>a whats called ‘hybrid inverter’</li>
+ 	<li><sup><a class="KENC7Z" id="O7KMT4" href="#O7KMT4">O7KMT4</a>: </sup>a what's called ‘hybrid inverter’</li>
 </ol>
 </li>
  	<li><sup><a class="KENC7Z" id="O7KMIE" href="#O7KMIE">O7KMIE</a>: </sup>other finds may have solutions but I didn't see anything fast to grasp.</li>
@@ -1302,6 +1322,10 @@
 </ol>
 </li>
 </ol></li>
-		<li><sup><a class="KENC7Z" id="OVLGXF" href="#OVLGXF">OVLGXF</a>: </sup>http://2.JotHere.com<a href="/OVLGXF/">/OVLGXF/</a> --of ‘type folder ‘{id}’ ::<a href="#OVCTKW">OVCTKWW</a>’&nbsp;now created by <a href="https://github.com/ObDest">@ObDest</a> from <a href="/OVLDJ1/">/OVLDJ1/</a> copy</li>
-<ol>
-<li><sup><a id="OVLQY7" class="aself_KEP2FG">OVLQY8</a>:</sup>&nbsp; commit: ‘added information on inverter generators’ OVLQ6L+OVLOH2</li></ol></ol></body></html>
+		<li><sup><a class="KENC7Z" id="OVLGXF" href="#OVLGXF">OVLGXF</a>: </sup>http://2.JotHere.com<a href="/OVLGXF/">/OVLGXF/</a> --of ‘type folder ‘{id}’ ::<a href="#OVCTKW">OVCTKWW</a>’&nbsp;now created by <a href="https://github.com/ObDest">@ObDest</a> from <a href="/OVLDJ1/">/OVLDJ1/</a> copy<ol>
+			<li><sup><a class="KENC7Z" id="OVWMEY" href="#OVWMEY">OVWMEY</a>: </sup>I Destiny do <a href="#OVWLFH">OVWLFH</a> then {via ExWeb, spellcheck: ~25 fixes} :<a href="#OVWMEY">OVWMEY</a><li>.</li><ol>
+				<li>&nbsp;<ol>
+				</ol>
+			</ol>
+		</ol>
+</ol></body></html>
