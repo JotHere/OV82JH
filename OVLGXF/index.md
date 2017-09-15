@@ -314,7 +314,7 @@
 	</ol>
 	</li>
 	<li><sup><a class="KENC7Z" id="O806VX" href="#O806VX">O806VX</a>: </sup>use as template&nbsp;<a href="/5526#O8078D">/5526#O8078D</a></li>
- 	<li><sup><a class="KENC7Z" id="O7JJDT" href="#O7JJDT">O7JJDT</a>: </sup>‘op’{<strong>resume editing</strong> <strong>after</strong> {;date <strong>2016.05.21</strong>SatPs ;<strong>polish</strong> <strong>.1</strong>&nbsp;;version&nbsp;0 ;words&nbsp;305 ;<strong>revision 1</strong>} after create {this ‘document’&nbsp;for http://1.JotHere.com/5519#O73I5F} by following NXBIBI with {{template plus no source text} with last {addition if known else history entry} /5519#O7A4WL&nbsp;{as {post latest #1} and {related: very remotely}} after {;date Pst1158} &nbsp;after {realize I need a post after per size, putting everything in sheet of stuff transferring (here-to-get) is inadequate}}</li>
+ 	<li><sup><a class="KENC7Z" id="O7JJDT" href="#O7JJDT">O7JJDT</a>: </sup>‘op’{<strong>resume editing</strong> <strong>after</strong> {;date <strong>2016.05.21</strong>SatPs ;<strong>polish</strong> <strong>.1</strong>&nbsp;;version&nbsp;0 ;words&nbsp;305 ;<strong>revision 1</strong>} after create {this ‘document’&nbsp;for http://1.JotHere.com/5519#O73I5F} by following NXBIBI with {​{template plus no source text} with last {addition if known else history entry} /5519#O7A4WL&nbsp;{as {post latest #1} and {related: very remotely}} after {;date Pst1158} &nbsp;after {realize I need a post after per size, putting everything in sheet of stuff transferring (here-to-get) is inadequate}}</li>
  	<li><sup><a class="KENC7Z" id="O7JT4J" href="#O7JT4J">O7JT4J</a>: </sup>realized it deserved its own post &amp; concept after prior did this work strictly integrated into other project documents</li>
 </ol>
 </li>
